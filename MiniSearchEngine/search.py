@@ -58,11 +58,6 @@ def is_url_ok_to_follow(url):
     else:
         return False
 
-
-######### PROVIDED UTILITIES END #########
-
-### YOUR CODE GOES HERE ###
-
 def getLinks(URL, domain):
 	f = urllib2.urlopen(URL)
 	soup = BeautifulSoup(f)
