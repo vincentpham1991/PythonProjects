@@ -12,7 +12,7 @@ Encrypts a message using [ROT-13](https://en.wikipedia.org/wiki/ROT13) method.
 
 #### HiddenMarkovModelFraud:
 
-Applies the Hidden Markov Model in order to detect credit card fraud. The underlying assumption is that there are 3 hidden states: high, medium, and low spending amounts.
+Applies the Hidden Markov Model in order to detect credit card fraud. The underlying assumption is that there are 3 hidden states: high, medium, and low spending amounts. More detailed README found in folder.
 
 ###### fraudChecker.py
 ###### HMMArray.py
