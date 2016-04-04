@@ -6,4 +6,6 @@ to run the heat map, type in terminal:
 
 	python visualizer.py stock data/stocks
 
-![Alt text](/heatmap_example.png?raw=true "Optional Title")
+Example of heatmap:
+
+![Alt text](heatmap_example.png)
